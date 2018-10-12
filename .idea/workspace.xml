@@ -7,131 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae03d0fc-6c86-43c6-8413-d53f380b628b" name="Default Changelist" comment="Default Changelist">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SSM在idea工具下的整合操作" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/业务层" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/添加上控制层代码" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_front_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_front_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_SSM_idea.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/ssm.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ssm_springmvcSpringMybaits.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/logs/ssm.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/appcomm/BaseSpringJunit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/appcomm/DAOExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/controller/SmbmsBillController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/controller/SmbmsProviderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/controller/TeamController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/GuanggaoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/MemberMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/SmbmsAddressMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/SmbmsBillMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/SmbmsProviderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/SmbmsRoleMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/SmbmsUserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/TeamMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/GuanggaoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/MemberMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/SmbmsAddressMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/SmbmsBillMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/SmbmsProviderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/SmbmsRoleMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/SmbmsUserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/dao/mapper/TeamMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/Guanggao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/GuanggaoExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/Member.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/MemberExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsAddressExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsBill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsBillExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsProviderExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsRoleExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/SmbmsUserExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/Team.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/domain/TeamExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/GuanggaoBizI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/SmbmsBillBizI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/SmbmsProviderBizI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/TeamBizI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/impl/GuanggaoBizImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/impl/SmbmsBillBizIImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/impl/SmbmsProviderBizIImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/java/com/tzhu/ssm/service/impl/TeamBizImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/generator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/resources/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/page/provider.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/page/smbmsbill.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/main/webapp/page/team.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/test/java/TestMybatis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/test/java/com/tzhu/ssm/service/impl/SmbmsBillBizIImplTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/test/java/com/tzhu/ssm/service/impl/SmbmsProviderBizIImplTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/src/test/java/com/tzhu/ssm/service/impl/TeamDaoImplTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/web-front.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-front/webfront.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-mobie/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-mobie/src/main/java/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-mobie/web-mobie.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-mobie/webmobie.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-pc/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-pc/web-pc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-pc/webpc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-service/web-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1120,8 +996,15 @@
       <workItem from="1539140601763" duration="7516000" />
       <workItem from="1539156165135" duration="24000" />
       <workItem from="1539156566551" duration="658000" />
-      <workItem from="1539331172299" duration="356000" />
+      <workItem from="1539331172299" duration="546000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1539331538140</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539331538140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1157,7 +1040,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24830000" />
+    <option name="totallyTimeSpent" value="25020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1165,6 +1048,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1186,7 +1070,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
