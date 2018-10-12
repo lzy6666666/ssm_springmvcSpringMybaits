@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae03d0fc-6c86-43c6-8413-d53f380b628b" name="Default Changelist" comment="Default Changelist">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -261,7 +262,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -324,9 +325,10 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16015625" />
     <property name="project.structure.side.proportion" value="0.2632184" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/web-front/src/test/java/com/tzhu/ssm/service/impl" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -996,7 +998,7 @@
       <workItem from="1539140601763" duration="7516000" />
       <workItem from="1539156165135" duration="24000" />
       <workItem from="1539156566551" duration="658000" />
-      <workItem from="1539331172299" duration="546000" />
+      <workItem from="1539331172299" duration="1513000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1539331538140</created>
@@ -1004,7 +1006,13 @@
       <option name="project" value="LOCAL" />
       <updated>1539331538140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1539331734382</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539331734382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1040,7 +1048,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25020000" />
+    <option name="totallyTimeSpent" value="25987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
